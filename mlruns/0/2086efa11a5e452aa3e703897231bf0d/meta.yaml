@@ -1,0 +1,15 @@
+artifact_uri: file:///data/Documents/cursos/nanodegree_ml_devops/genre_classification/mlruns/0/2086efa11a5e452aa3e703897231bf0d/artifacts
+end_time: 1653665228758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 2086efa11a5e452aa3e703897231bf0d
+run_uuid: 2086efa11a5e452aa3e703897231bf0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653665226246
+status: 4
+tags: []
+user_id: mateus
